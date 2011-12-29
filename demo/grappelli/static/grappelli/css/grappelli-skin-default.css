@@ -2008,19 +2008,19 @@ hr {
     background-color: #262626;
 }
 .admin-title {
-    border-left: 1px solid #404040;
-    border-right: 1px solid #303030;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
 }
 
 
 /*  User Tools ................................................... */
 
 #user-tools {
-    border-left: 1px solid #303030;
+    border-left: 1px solid white;
 }
 #user-tools>li {
-    border-left: 1px solid #404040;
-    border-right: 1px solid #303030;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
 }
 li.user-options-container.open a.user-options-handler {
     color: #eee !important;
